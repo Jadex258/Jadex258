@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jadex258&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jadex258&theme=dark" alt="GitHub Streak" />
 </div>
 
 
