@@ -10,12 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on MYSELF IMPROVEMENT(Project next)
 - 🌱 I'm learning Flutter Framework together with Dart.
-- 👯 I'm looking to collaborate on Flutter projects
-- 💬 Ask me about mobile app development
-- ⚡ Fun fact: Nothing lol.
-
 
 ## 📊 GitHub Stats
 
